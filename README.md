@@ -1,4 +1,4 @@
-# rojet PrestaShop - Phase 2 : Exécution des Tests
+# projet PrestaShop - Phase 2 : Exécution des Tests
 
 Ce dépôt présente les résultats de la phase d'exécution des tests réalisée sur la boutique de démonstration PrestaShop.
 
@@ -20,9 +20,9 @@ Les 4 échecs ont fait l'objet de rapports d'anomalies détaillés sur **MantisB
 ---
 
 ## 📂 Livrables de la phase
-* **[Lien vers la Matrice mise à jour](./Matrice_tracabilite_Prestashop_Exécution.xlsx)** : Inclut désormais les colonnes **Statut (OK/KO)** et les **ID des anomalies**.
+* **[Lien vers la Matrice mise à jour](./PrestaShop-phase2-Execution.xlsx)** : Inclut désormais les colonnes **Statut (OK/KO)** et les **ID des anomalies**.
 * **Preuve d'enregistrement Mantis :**
-![Capture d'écran Mantis](./image_9992a1.png)
+![Capture d'écran Mantis](./liste_bugs_mantis.png)
 
 ---
 *Travail réalisé par Rimene Ben Elouaer - Mars 2026*
